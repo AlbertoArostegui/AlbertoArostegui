@@ -1,1 +1,1 @@
-GPU Researcher
+GPGPU Researcher
